@@ -1,0 +1,4 @@
+https://adoptium.net/temurin/releases/
+
+typically C:\Program Files\Eclipse Adoptium\jdk-8.xyz.xx-hotspot
+%JAVA_HOME%\bin
